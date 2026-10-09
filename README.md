@@ -1,5 +1,4 @@
-# 🏧 -----MOBILE STORE HUB----
-https://fronted-mobile-store-project.vercel.app/
+# 🏧 -----ATM INTERFACE----
 
 A simple **ATM Management System built using Python**. This beginner-friendly project demonstrates the use of dictionaries, loops, conditional statements, user input, functions of an ATM, and transaction history.
 
